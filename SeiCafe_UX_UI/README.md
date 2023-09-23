@@ -66,3 +66,10 @@ npm start
 ```bash
 yarn start
 ```
+
+
+wireframe - https://excalidraw.com/
+
+trello board - https://trello.com/b/tyLs7wCH/capstone-project
+
+ERD - https://admin.lucid.app/lucidchart/e5d0a796-500e-43a3-8159-f92b40d08baf/edit?beaconFlowId=26D5448A8630226D&invitationId=inv_4f792a18-740e-40f7-bf81-13b2b1896d71&page=0_0#
